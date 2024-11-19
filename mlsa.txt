@@ -1,0 +1,14 @@
+🔹 Python for Beginners: https://learn.microsoft.com/training/paths/beginner-python/?wt.mc_id=studentamb_345807
+🔹 Create and Manage Projects in Python: https://learn.microsoft.com/training/modules/python-create-manage-projects/?wt.mc_id=studentamb_345807
+🔹 Introduction to Azure Machine Learning: https://learn.microsoft.com/training/modules/intro-to-azure-ml/?wt.mc_id=studentamb_345807
+🔹 Introduction to MLOps: https://learn.microsoft.com/training/paths/introduction-machine-learn-operations/?wt.mc_id=studentamb_345807
+🔹 Introduction to Data for Machine Learning: https://learn.microsoft.com/training/modules/introduction-to-data-for-machine-learning/?wt.mc_id=studentamb_345807
+🔹 Create a Copilot with Microsoft Copilot Studio: https://learn.microsoft.com/training/modules/create-chatbot-power-virtual-agents-dataverse-teams/?wt.mc_id=studentamb_345807
+🔹 Microsoft Azure AI Fundamentals: https://learn.microsoft.com/training/courses/ai-900t00?wt.mc_id=studentamb_345807
+🔹 Understand Data Science for Machine Learning: https://learn.microsoft.com/training/paths/understand-machine-learning/?wt.mc_id=studentamb_345807
+🔹 Introduction to Data Analytics on Azure: https://learn.microsoft.com/training/paths/introduction-data-analytics-azure/?wt.mc_id=studentamb_345807
+🔹 Data Analysis with Power BI: https://learn.microsoft.com/training/paths/prepare-data-power-bi/?wt.mc_id=studentamb_345807
+🔹 SQL Fundamentals: https://learn.microsoft.com/training/paths/azure-sql-fundamentals/?wt.mc_id=studentamb_345807
+🔹 Cybersecurity Essentials: https://learn.microsoft.com/training/modules/prepare-child-cybersecurity-essentials/?wt.mc_id=studentamb_345807
+🔹 Write Your First C# Code: https://learn.microsoft.com/training/modules/csharp-write-first/?wt.mc_id=studentamb_345807
+🔹 Get Started with Artificial Intelligence on Azure: https://learn.microsoft.com/training/paths/get-started-with-artificial-intelligence-on-azure/?wt.mc_id=studentamb_345807
