@@ -1,16 +1,96 @@
-<svg width="789" height="789" viewBox="0 0 789 789" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_505_2)">
-<rect width="789" height="789" rx="394.5" fill="#C1E5FF"/>
-<path d="M540.798 116C299.063 280.215 87.8236 419.5 108.386 494C139.299 606 632 236 684.386 338C725.988 419 60 789 60 789" stroke="#00c7ff" stroke-width="50"/>
-<circle cx="601.297" cy="75" r="25" fill="#00c7ff"/>
-<circle cx="539.297" cy="117" r="25" fill="#00c7ff"/>
-<circle cx="390" cy="394" r="250" fill="white"/>
-<path d="M109 494.991C139.913 606.991 632.613 236.991 685 338.991" stroke="#00c7ff" stroke-width="50"/>
-<path d="M479.393 382.929C488.175 372.373 493.636 360.25 493.636 348.297C493.636 334.076 490.33 321.935 481.471 313.368C472.62 304.809 458.417 300 437.041 300H274H273V301V487V488H274H445.06C466.501 488 482.018 481.829 492.174 471.664C502.327 461.503 507 447.474 507 431.997C507 411.75 495.418 394.723 479.393 382.929ZM344.493 347.171H407.641C411.173 347.171 414.826 347.187 417.611 348.356C418.967 348.925 420.076 349.755 420.856 350.971C421.639 352.192 422.143 353.885 422.143 356.269C422.143 358.652 421.639 360.345 420.856 361.566C420.076 362.782 418.967 363.612 417.611 364.182C414.826 365.35 411.173 365.366 407.641 365.366H344.493V347.171ZM421.005 435.514H344.493V417.851H421.005C424.536 417.851 428.195 417.866 430.983 419.006C432.344 419.562 433.45 420.37 434.227 421.549C435.005 422.731 435.507 424.37 435.507 426.683C435.507 428.995 435.005 430.635 434.227 431.817C433.45 432.995 432.344 433.804 430.983 434.36C428.195 435.499 424.536 435.514 421.005 435.514Z" fill="black" stroke="black" stroke-width="2"/>
-</g>
-<defs>
-<clipPath id="clip0_505_2">
-<rect width="789" height="789" rx="394.5" fill="white"/>
-</clipPath>
-</defs>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="789"
+   height="789"
+   viewBox="0 0 789 789"
+   fill="none"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="icon_logo.svg"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.0506971"
+     inkscape:cx="394.02413"
+     inkscape:cy="394.5"
+     inkscape:window-width="1912"
+     inkscape:window-height="1040"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4" />
+  <g
+     clip-path="url(#clip0_505_2)"
+     id="g4">
+    <rect
+       width="789"
+       height="789"
+       rx="394.5"
+       fill="#C1E5FF"
+       id="rect1" />
+    <path
+       d="M540.798 116C299.063 280.215 87.8236 419.5 108.386 494C139.299 606 632 236 684.386 338C725.988 419 60 789 60 789"
+       stroke="#00c7ff"
+       stroke-width="50"
+       id="path1" />
+    <circle
+       cx="601.297"
+       cy="75"
+       r="25"
+       fill="#00c7ff"
+       id="circle1" />
+    <circle
+       cx="539.297"
+       cy="117"
+       r="25"
+       fill="#00c7ff"
+       id="circle2" />
+    <circle
+       cx="390"
+       cy="394"
+       r="250"
+       fill="white"
+       id="circle3" />
+    <path
+       d="M109 494.991C139.913 606.991 632.613 236.991 685 338.991"
+       stroke="#00c7ff"
+       stroke-width="50"
+       id="path3" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:332.529px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded Ultra-Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke-width:27.7106;paint-order:markers fill stroke"
+       x="239.09656"
+       y="542.50732"
+       id="text4"
+       transform="scale(1.1060877,0.90408745)"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         x="239.09656"
+         y="542.50732"
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Ultra-Bold';fill:#1a1a1a;stroke-width:27.7106">A</tspan></text>
+  </g>
+  <defs
+     id="defs4">
+    <clipPath
+       id="clip0_505_2">
+      <rect
+         width="789"
+         height="789"
+         rx="394.5"
+         fill="white"
+         id="rect4" />
+    </clipPath>
+  </defs>
 </svg>

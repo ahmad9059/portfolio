@@ -1,13 +1,87 @@
-<svg width="909" height="909" viewBox="0 0 909 909" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M606.798 163C365.063 327.215 153.824 466.5 174.386 541C205.299 653 698 283 750.386 385C791.988 466 243.5 769.5 243.5 769.5" stroke="#00c7ff" stroke-width="50"/>
-<circle cx="667.298" cy="122" r="25" fill="#00c7ff"/>
-<circle cx="605.298" cy="164" r="25" fill="#00c7ff"/>
-<circle cx="243" cy="769.78" r="25" fill="#00c7ff"/>
-<circle cx="181" cy="812" r="25" fill="#00c7ff"/>
-<circle cx="463" cy="441" r="250" fill="white"/>
-<path d="M175 541.991C205.913 653.991 698.613 283.991 751 385.991" stroke="#00c7ff" stroke-width="50"/>
-<g style="mix-blend-mode:luminosity">
-<path d="M552.393 429.929C561.175 419.373 566.636 407.25 566.636 395.297C566.636 381.076 563.33 368.935 554.471 360.368C545.62 351.809 531.417 347 510.041 347H347H346V348V534V535H347H518.06C539.501 535 555.018 528.829 565.174 518.664C575.327 508.503 580 494.474 580 478.997C580 458.75 568.418 441.723 552.393 429.929ZM417.493 394.171H480.641C484.173 394.171 487.826 394.187 490.611 395.356C491.967 395.925 493.076 396.755 493.856 397.971C494.639 399.192 495.143 400.885 495.143 403.269C495.143 405.652 494.639 407.345 493.856 408.566C493.076 409.782 491.967 410.612 490.611 411.182C487.826 412.35 484.173 412.366 480.641 412.366H417.493V394.171ZM494.005 482.514H417.493V464.851H494.005C497.536 464.851 501.195 464.866 503.983 466.006C505.344 466.562 506.45 467.37 507.227 468.549C508.005 469.731 508.507 471.37 508.507 473.683C508.507 475.995 508.005 477.635 507.227 478.817C506.45 479.995 505.344 480.804 503.983 481.36C501.195 482.499 497.536 482.514 494.005 482.514Z" fill="black"/>
-<path d="M552.393 429.929C561.175 419.373 566.636 407.25 566.636 395.297C566.636 381.076 563.33 368.935 554.471 360.368C545.62 351.809 531.417 347 510.041 347H347H346V348V534V535H347H518.06C539.501 535 555.018 528.829 565.174 518.664C575.327 508.503 580 494.474 580 478.997C580 458.75 568.418 441.723 552.393 429.929ZM417.493 394.171H480.641C484.173 394.171 487.826 394.187 490.611 395.356C491.967 395.925 493.076 396.755 493.856 397.971C494.639 399.192 495.143 400.885 495.143 403.269C495.143 405.652 494.639 407.345 493.856 408.566C493.076 409.782 491.967 410.612 490.611 411.182C487.826 412.35 484.173 412.366 480.641 412.366H417.493V394.171ZM494.005 482.514H417.493V464.851H494.005C497.536 464.851 501.195 464.866 503.983 466.006C505.344 466.562 506.45 467.37 507.227 468.549C508.005 469.731 508.507 471.37 508.507 473.683C508.507 475.995 508.005 477.635 507.227 478.817C506.45 479.995 505.344 480.804 503.983 481.36C501.195 482.499 497.536 482.514 494.005 482.514Z" stroke="black" stroke-width="2"/>
-</g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="909"
+   height="909"
+   viewBox="0 0 909 909"
+   fill="none"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="logo_no_text.svg"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7" />
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.88"
+     inkscape:cx="454.54545"
+     inkscape:cy="456.25"
+     inkscape:window-width="1912"
+     inkscape:window-height="1040"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <path
+     d="M606.798 163C365.063 327.215 153.824 466.5 174.386 541C205.299 653 698 283 750.386 385C791.988 466 243.5 769.5 243.5 769.5"
+     stroke="#00c7ff"
+     stroke-width="50"
+     id="path1" />
+  <circle
+     cx="667.298"
+     cy="122"
+     r="25"
+     fill="#00c7ff"
+     id="circle1" />
+  <circle
+     cx="605.298"
+     cy="164"
+     r="25"
+     fill="#00c7ff"
+     id="circle2" />
+  <circle
+     cx="243"
+     cy="769.78"
+     r="25"
+     fill="#00c7ff"
+     id="circle3" />
+  <circle
+     cx="181"
+     cy="812"
+     r="25"
+     fill="#00c7ff"
+     id="circle4" />
+  <circle
+     cx="463"
+     cy="441"
+     r="250"
+     fill="white"
+     id="circle5" />
+  <path
+     d="M175 541.991C205.913 653.991 698.613 283.991 751 385.991"
+     stroke="#00c7ff"
+     stroke-width="50"
+     id="path5" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:359.932px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#00ccff;stroke-width:29.9944;paint-order:markers fill stroke"
+     x="281.39783"
+     y="618.54663"
+     id="text7"
+     transform="scale(1.1246302,0.88918118)"><tspan
+       sodipodi:role="line"
+       id="tspan7"
+       x="281.39783"
+       y="618.54663"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Heavy';fill:#000000;stroke-width:29.9944">A</tspan></text>
 </svg>

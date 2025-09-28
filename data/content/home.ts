@@ -1,39 +1,34 @@
 type Skill = {
-  title: string,
-  icon: string,
-  style?: object
+  title: string;
+  icon: string;
+  style?: object;
 };
 type Testimonial = {
-  quote: string,
-  name: string,
-  job: string
+  quote: string;
+  name: string;
+  job: string;
 };
-
 
 export const skills: Skill[] = [
   {
-    title: "HTML",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
-  },
-  {
-    title: "CSS",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
-  },
-  {
-    title: "Javascript",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
-  },
-  {
-    title: "Sass",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg",
+    title: "React",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg",
   },
   {
     title: "TailwindCSS",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
   },
   {
-    title: "React",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+    title: "NodeJS",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg",
+  },
+  {
+    title: "JavaScript",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg",
+  },
+  {
+    title: "Typescript",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg",
   },
   {
     title: "NextJS",
@@ -41,44 +36,47 @@ export const skills: Skill[] = [
     style: { filter: "invert(1)" },
   },
   {
-    title: "Typescript",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+    title: "Linux",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg",
   },
   {
-    title: "NodeJS",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+    title: "AWS",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg",
   },
   {
-    title: "Git",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
+    title: "PostgreSQL",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg",
   },
   {
-    title: "Firebase",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg",
+    title: "Docker",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg",
   },
   {
-    title: "Figma",
-    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg",
+    title: "GraphQL",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg",
+  },
+  {
+    title: "Redis",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg",
   },
 ];
-
 export const testimonials: Testimonial[] = [
   {
     quote:
-      "The communication throughout the project was spot on and the genre of design was carried out well.",
-    name: "Wilson Bright",
-    job: "Co-Founder of BlockSurvey",
+      "Ahmad understood the requirements quickly and delivered a solution that fit perfectly with our goals.",
+    name: "Sarah Mitchell",
+    job: "Product Manager at NovaTech",
   },
   {
     quote:
-      "The code was clean, easy to understand, and exactly what I was looking for.",
-    name: "Philip Imperato",
-    job: "CEO of VisualBonus",
+      "The code was structured, efficient, and easy to maintain, which made integration smooth and reliable.",
+    name: "David Kim",
+    job: "CTO at CloudSphere",
   },
   {
     quote:
-      "My vision was executed perfectly. The quality and speed of the work was excellent.",
-    name: "Zach Green",
-    job: "Founder of Hangxiety Shrink",
+      "His work was fast and polished, with thoughtful details that really improved the final product.",
+    name: "Emily Carter",
+    job: "Founder of BrightPath Solutions",
   },
 ];

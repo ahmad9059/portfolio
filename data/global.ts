@@ -1,25 +1,25 @@
 type Route = {
-  title: string,
-  path: string
-}
+  title: string;
+  path: string;
+};
 
 type FooterCol = {
-  title: string,
+  title: string;
   links: {
-    name: string,
-    link: string,
-    icon?: string,
-    leavesWebsite: boolean
-  }[]
-}
+    name: string;
+    link: string;
+    icon?: string;
+    leavesWebsite: boolean;
+  }[];
+};
 
 type Footer = {
-  columns: FooterCol[]
+  columns: FooterCol[];
   support: {
-    buymeacoffee: string
-    paypal: string
-    message: string
-  }
+    buymeacoffee: string;
+    paypal: string;
+    message: string;
+  };
 };
 
 export const routes: Route[] = [
@@ -40,7 +40,6 @@ export const routes: Route[] = [
     path: "/designs",
   },
 ];
-
 
 export const footer: Footer = {
   columns: [
@@ -74,26 +73,20 @@ export const footer: Footer = {
       links: [
         {
           name: "GitHub",
-          link: "https://github.com/braydentw",
+          link: "https://github.com/ahmad9059",
           icon: "/static/icons/github-f.svg",
           leavesWebsite: true,
         },
         {
           name: "LinkedIn",
-          link: "https://www.linkedin.com/in/braydentw/",
+          link: "https://www.linkedin.com/in/ahmad9059/",
           icon: "/static/icons/linkedin-f.svg",
           leavesWebsite: true,
         },
         {
-          name: "Dribbble",
-          link: "https://dribbble.com/braydentw",
-          icon: "/static/icons/dribbble-f.svg",
-          leavesWebsite: true,
-        },
-        {
-          name: "IndieHackers",
-          link: "https://indiehackers.com/braydentw",
-          icon: "/static/icons/indiehackers-f.svg",
+          name: "LeetCode",
+          link: "https://leetcode.com/ahmad9059",
+          icon: "/static/icons/leetcode.svg",
           leavesWebsite: true,
         },
         {
@@ -106,8 +99,8 @@ export const footer: Footer = {
     },
   ],
   support: {
-    buymeacoffee: "braydenw",
-    paypal: "braydentw",
+    buymeacoffee: "ahmad9059",
+    paypal: "ahmad9059",
     message: "I appreciate your support very much! 💙",
   },
 };
