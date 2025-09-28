@@ -1,0 +1,69 @@
+.
+├── a.txt
+├── components
+│   ├── designs
+│   │   ├── Designs.tsx
+│   │   ├── Heading.tsx
+│   │   └── More.tsx
+│   ├── global
+│   │   ├── Footer.tsx
+│   │   ├── MobileNavbar.tsx
+│   │   ├── Navbar.tsx
+│   │   └── SectionTitle.tsx
+│   ├── home
+│   │   ├── CTA.tsx
+│   │   ├── Hero.tsx
+│   │   ├── Projects.tsx
+│   │   ├── Skills.tsx
+│   │   └── Testimonials.tsx
+│   ├── projects
+│   │   ├── Heading.tsx
+│   │   ├── More.tsx
+│   │   ├── ProjectCard.tsx
+│   │   └── Projects.tsx
+│   └── utility
+│       └── Page.tsx
+├── data
+│   ├── content
+│   │   ├── designs.ts
+│   │   ├── home.ts
+│   │   └── projects.ts
+│   └── global.ts
+├── next.config.js
+├── next-env.d.ts
+├── package.json
+├── package-lock.json
+├── pages
+│   ├── 404.tsx
+│   ├── api
+│   │   └── hello.js
+│   ├── _app.tsx
+│   ├── designs.tsx
+│   ├── _document.tsx
+│   ├── index.tsx
+│   ├── projects
+│   │   └── tag
+│   └── projects.tsx
+├── postcss.config.js
+├── public
+│   └── static
+│       ├── designs
+│       ├── doodles
+│       ├── favicon
+│       ├── Frame.svg
+│       ├── icons
+│       ├── logos
+│       ├── misc
+│       └── projects
+├── README.md
+├── styles
+│   └── main.css
+├── tailwind.config.js
+├── tsconfig.json
+├── types
+│   └── index.ts
+├── utils
+│   └── utils.ts
+└── yarn.lock
+
+25 directories, 42 files
