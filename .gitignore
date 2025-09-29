@@ -41,3 +41,7 @@ next-env.d.ts
 
 # Mac / Linux system files
 Thumbs.db
+
+
+# Contentlayer
+.contentlayer
